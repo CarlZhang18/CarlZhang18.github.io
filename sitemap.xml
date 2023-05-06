@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://carlzhang18.github.io/post/36d2b90d.html</loc>
+    
+    <lastmod>2023-05-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://carlzhang18.github.io/post/2c77a123.html</loc>
     
     <lastmod>2022-11-25</lastmod>
@@ -22,7 +31,7 @@
 
   <url>
     <loc>https://carlzhang18.github.io/</loc>
-    <lastmod>2022-11-25</lastmod>
+    <lastmod>2023-05-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

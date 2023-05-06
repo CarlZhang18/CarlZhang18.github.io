@@ -6,7 +6,7 @@
   <link href="https://carlzhang18.github.io/atom.xml" rel="self"/>
   
   <link href="https://carlzhang18.github.io/"/>
-  <updated>2022-11-25T09:42:25.620Z</updated>
+  <updated>2023-05-06T06:12:37.617Z</updated>
   <id>https://carlzhang18.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CISP学习笔记(1)</title>
+    <link href="https://carlzhang18.github.io/post/36d2b90d.html"/>
+    <id>https://carlzhang18.github.io/post/36d2b90d.html</id>
+    <published>2022-12-01T05:44:01.000Z</published>
+    <updated>2023-05-06T06:12:37.617Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>cisco基础知识-静态路由</title>
